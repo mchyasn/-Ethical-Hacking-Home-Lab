@@ -145,5 +145,6 @@ First things first, you really need to understand how things work before you sta
     - Wireless hacking (WPA)
 
 
-..........................................................................mchyasn................................................................................................
 ![275119218-d1397fe6-99fa-4913-b2c4-159e3180131b](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnliOWZwOHl3cHRzdnAwc3V3OGU4aXZpd3UxM29xbWNscmt5aXgwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif)
+
+# ｍｃｈｙａｓｎ
