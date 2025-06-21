@@ -1,8 +1,12 @@
-# <p align="center">Ethical Hacking Labs
+![275119218-d1397fe6-99fa-4913-b2c4-159e3180131b](https://github.com/jefftsui1/jefftsui1/assets/46698661/138acf75-2f95-4334-80ce-c6c736112abc)
 
-</p>
 
-![h](https://gist.githubusercontent.com/Samsar4/62886aac358c3d484a0ec17e8eb11266/raw/89f706846f97cd3e59880dbc03e4f1d5f8023783/header-ehl.jpg)
+<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=jefftsui1.jefftsui1" />
+
+<h1 align="center">
+    <a href="https://git.io/typing-svg">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=2500&lines=👋+Hello+I'm+mchyasn!+👋......;+Thank+You+For+Visiting!.......;" />
+</h1>
 
 This is a collection of tutorials and labs made for ethical hacking students, cybersecurity students, network and sys-admins. These tutorials accompany the resources of CEH content and different resources across the internet.
 
@@ -20,6 +24,13 @@ This is a collection of tutorials and labs made for ethical hacking students, cy
 > *This is purely for educational purposes only. DO NOT try these techniques with any public network. If you are found guilty of causing any harm to any individual, government, corporate body, non-profit, etc., you will be sued with serious charges of cybercrime. I recommend you to practice the lessons in this course on your own system and your own data in a private or local network.*
 
 ---
+<div align="center">
+  <img src="https://github.com/jefftsui1/jefftsui1/assets/46698661/f7da48e9-2583-4658-b1f4-f2dd4c376713" style="max-width:100" alt="Banner" >
+</div>
+
+
+<hr/>
+
 
 ## ⚙️ Core Knowledge
 
@@ -135,3 +146,4 @@ First things first, you really need to understand how things work before you sta
 
 
 ..........................................................................mchyasn................................................................................................
+![275119218-d1397fe6-99fa-4913-b2c4-159e3180131b](https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnliOWZwOHl3cHRzdnAwc3V3OGU4aXZpd3UxM29xbWNscmt5aXgwdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/DqiMTFxiXx0VaVZQbF/giphy.gif)
